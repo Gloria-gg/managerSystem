@@ -1,0 +1,6 @@
+123456:resource A
+123456:resource B
+123456:resource C
+123:resource A
+123:resource B
+123:resource C
