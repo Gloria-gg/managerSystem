@@ -8,7 +8,7 @@ There are 4 core points of this requirement which are:
 
 4. Error handling: The system should handle any possible errors that may occur and provide readable error messages in response.
 
-=======================================================================================
+===================================================================
 
 To address these issues, I mainly followed the following 4 steps:
 
